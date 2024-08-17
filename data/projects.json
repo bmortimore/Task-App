@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Build a Personal Website",
+        "description": "Create a personal website to showcase projects.",
+        "difficulty": "Medium",
+        "time_allotted": "48 hours"
+    },
+    {
+        "name": "Develop a To-Do List App",
+        "description": "Create a simple to-do list application using Python.",
+        "difficulty": "Easy",
+        "time_allotted": "10 hours"
+    },
+    {
+        "name": "Writing a test project",
+        "description": "This is a test project for testing functionality",
+        "difficulty": "Easy",
+        "time_allotted": "Fast"
+    },
+    {
+        "name": "Test number 2",
+        "description": "This doesnt matter",
+        "difficulty": "Medium",
+        "time_allotted": "A lot"
+    }
+]
