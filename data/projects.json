@@ -22,5 +22,11 @@
         "description": "This doesnt matter",
         "difficulty": "Medium",
         "time_allotted": "A lot"
+    },
+    {
+        "name": "Test 123",
+        "description": "This is another functionality test",
+        "difficulty": 10,
+        "time_allotted": 100.0
     }
 ]
